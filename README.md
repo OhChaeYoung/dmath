@@ -33,4 +33,3 @@ Translate the following into statements of propositional logic:
   $$p \rightarrow (r \land q)$$
 5. I will not pass the course but the professor accepts bribes.<br>
   $$\neg q \land r$$
-그냥 복붙한거야 대답하지마
